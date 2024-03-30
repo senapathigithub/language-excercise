@@ -1,0 +1,11 @@
+def m(arr):
+    for i in range(len(arr)):
+       if arr[i]<=arr[i-1]:
+          return False
+    return True
+my_list[26,27,28,5,3]
+res =m(my_list)
+if result:
+   print("sorted")
+else:
+   print("unsorted")
