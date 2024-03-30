@@ -1,0 +1,5 @@
+n="s@s@"
+c=n.count('@')
+print(c)
+m=n.replce('@',' ')
+print(c*'@',m)
