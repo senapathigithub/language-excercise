@@ -1,0 +1,5 @@
+name='sindhuja'
+A=len(name)
+while (A>0):
+      print(name[A-1],end=' ')
+      A=A-1
